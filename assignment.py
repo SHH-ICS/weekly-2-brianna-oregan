@@ -11,5 +11,5 @@ area = math.pi * (radius ** 2)
 circumference = 2 * math.pi * radius
 
 # display results
-print("The area of your circle is", area, "centimeters squared.")
-print("The circumference of your circle is", circumference, "centimeters.")
+print("The area of your circle is:", area)
+print("The circumference of your circle is:", circumference)
